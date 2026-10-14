@@ -52,12 +52,10 @@ A investigação também revelou um aviso de Mixed Content relacionado ao carreg
 
 ## Documentação técnica
 
-Este repositório será organizado em documentos complementares:
-
-- `docs/development-process.md` — estrutura e implementação.
-- `docs/responsive-design.md` — ajustes para diferentes dispositivos.
-- `docs/debugging-case-study.md` — investigação e correção da página em branco.
-- `docs/lessons-learned.md` — aprendizados e próximos pontos de validação.
+- [Processo de desenvolvimento](docs/development-process.md)
+- [Design responsivo](docs/responsive-design.md)
+- [Estudo de caso de debugging](docs/debugging-case-study.md)
+- [Aprendizados técnicos](docs/lessons-learned.md)
 
 ## Aprendizados
 
