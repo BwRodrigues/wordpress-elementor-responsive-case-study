@@ -1,5 +1,5 @@
 # Desenvolvimento Responsivo e Debugging com WordPress + Elementor
-
+![Visão geral do estudo de caso de desenvolvimento responsivo e debugging](assets/case-study-overview.png)
 > Estudo de caso técnico sobre construção de landing page, personalização com HTML/CSS, responsividade e resolução de problemas de renderização.
 
 ## Sobre o projeto
